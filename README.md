@@ -1,0 +1,1 @@
+a simple data parser (item name, game name, price) from steamcommunity.com
